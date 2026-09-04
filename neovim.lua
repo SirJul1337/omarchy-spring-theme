@@ -2,7 +2,7 @@ return {
   {
     "sainnhe/everforest",
     init = function()
-      vim.o.background = "light"
+      vim.o.background = "dark"
       vim.g.everforest_background = "soft"
     end,
   },
